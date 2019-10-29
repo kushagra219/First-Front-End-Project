@@ -1,0 +1,35 @@
+body{
+  background: #1b1433;
+  border: 40px solid #49e3db;
+  color: #FDFFFC
+  margin: auto;
+  padding: 80px;
+  font-family: 'Zhi Mang Xing', cursive;
+  font-size: 20px;
+}
+h1{
+  color: white;
+  text-align: center;
+}
+h2{
+  color: white;
+  text-align: center;
+}
+h3{
+  color: white;
+  text-align: center;
+}
+p{
+  color: white;
+}
+.form{
+  text-align: center;
+  color: white;
+  font-size: 1.5em;
+}
+#sub{
+  background-color: orange;
+  height:50px;
+  border-style: rounded;
+  border-radius: 25px;
+}
